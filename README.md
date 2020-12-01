@@ -1,1 +1,1 @@
-# Vanilla Javascript Momentum clone
+# Vanilla Javascript Momontum clone
